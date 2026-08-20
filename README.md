@@ -79,7 +79,4 @@ ningún activo reproduce marcas, logos o personas reales existentes — todo
 fue generado desde cero a partir del Sistema de IA definido.
 
 ## Conclusiones
-[Espacio para tu reflexión personal: qué aprendiste sobre trabajar con
-un Sistema de IA en vez de prompts sueltos, qué mejorarías de la
-identidad de marca o del proceso, y qué usarías de este proyecto en un
-caso real.]
+[Mi reflexion sobre el curso de IA, es que a traves del avance del curso adquirí nuevos conocimientos sobre IA que ya utilizaba en la cotidianidad y tambien conoci diferente IA que no sabia de su existencia, gracias a esas nuevas herramientas pude crear este proyecto. Lo que mejoraria del proyecto es hacerlo mas personalizado poder utilizar el logo, fotos reales mejoradas con IA para poder llevarlo a cabo en la vida real.]
